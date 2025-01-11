@@ -1,4 +1,8 @@
-.sketchfab-embed-wrapper {
+/* .sketchfab-embed-wrapper {
     width: 1500px;
     height: 700px;
+} */
+.sketchfab-embed-wrapper {
+    width: 100vw;
+    height: 700vh;
 }
